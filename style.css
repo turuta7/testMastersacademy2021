@@ -1,0 +1,29 @@
+body {
+    width: 1920px;
+}
+
+.red,
+.blue,
+.green {
+    width: 50px;
+    height: 50px;
+    margin: 3px;
+    border: 3px solid #474747;
+}
+
+.red {
+    background: #e22b2b;
+}
+
+.blue {
+    background: #3E52BE;
+}
+
+.green {
+    background: #51be3e;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
